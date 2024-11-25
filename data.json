@@ -1,0 +1,26 @@
+[
+  {
+    "model": "main.category",
+    "pk": 9,
+    "fields": {
+      "name": "Электроника",
+      "description": "Техника и гаджеты"
+    }
+  },
+  {
+    "model": "main.category",
+    "pk": 10,
+    "fields": {
+      "name": "Одежда",
+      "description": "Модная одежда"
+    }
+  },
+  {
+    "model": "main.category",
+    "pk": 11,
+    "fields": {
+      "name": "Продукты питания",
+      "description": "Еда и напитки"
+    }
+  }
+]
